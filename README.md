@@ -3,4 +3,4 @@
 
 Made with ♥ by the guys at [Tapfiliate](https://tapfiliate.com)
 
-[Documentation and demo](https://tapfiliate.com/open-source/tapatar/)
+> **No longer maintained.** This repository is archived and kept for reference. The demo page is no longer online; the source is in `src/` and a build in `dist/`.
